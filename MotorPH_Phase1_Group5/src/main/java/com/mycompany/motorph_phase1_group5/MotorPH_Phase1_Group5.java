@@ -6,7 +6,7 @@ package com.mycompany.motorph_phase1_group5;
 
 /**
  *
- * @author Josh
+ * This one is being edited on Git
  */
 public class MotorPH_Phase1_Group5 {
 
